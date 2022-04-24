@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: ca204ce8934118d4b948d2284d1ade53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5450423298160104991
+    second: gryphon-white_2_0
+  - first:
+      213: -5295248429820780370
+    second: gryphon-white_2_1
+  - first:
+      213: 5981623848730364608
+    second: gryphon-white_2_2
+  - first:
+      213: -8265268017473091612
+    second: gryphon-white_2_3
+  - first:
+      213: 7855459681612436482
+    second: gryphon-white_2_4
+  - first:
+      213: 1064227087283340541
+    second: gryphon-white_2_5
+  - first:
+      213: -3963340959790032608
+    second: gryphon-white_2_6
+  - first:
+      213: 8346699238230057681
+    second: gryphon-white_2_7
+  - first:
+      213: -8047259201563657566
+    second: gryphon-white_2_8
+  - first:
+      213: 8526833832704197831
+    second: gryphon-white_2_9
+  - first:
+      213: -6801731198606403555
+    second: gryphon-white_2_10
+  - first:
+      213: -4946284505194235780
+    second: gryphon-white_2_11
+  - first:
+      213: -2504537386127462777
+    second: gryphon-white_2_12
+  - first:
+      213: -5328824150428911955
+    second: gryphon-white_2_13
+  - first:
+      213: 8348237529354901443
+    second: gryphon-white_2_14
+  - first:
+      213: 8243713592519037536
+    second: gryphon-white_2_15
+  - first:
+      213: -5392285551755129744
+    second: gryphon-white_2_16
+  - first:
+      213: -6098098648599119948
+    second: gryphon-white_2_17
+  - first:
+      213: -4135640923094959100
+    second: gryphon-white_2_18
+  - first:
+      213: 6925038689508592388
+    second: gryphon-white_2_19
+  - first:
+      213: 7546470781651638811
+    second: gryphon-white_2_20
+  - first:
+      213: -7134654104946478091
+    second: gryphon-white_2_21
+  - first:
+      213: 9204291775297115877
+    second: gryphon-white_2_22
+  - first:
+      213: -4107013970719037593
+    second: gryphon-white_2_23
+  - first:
+      213: 2499652226168171968
+    second: gryphon-white_2_24
+  - first:
+      213: -5024132853860509199
+    second: gryphon-white_2_25
+  - first:
+      213: -6840730092940307468
+    second: gryphon-white_2_26
+  - first:
+      213: 8383043306347515301
+    second: gryphon-white_2_27
+  - first:
+      213: 9061560912408270480
+    second: gryphon-white_2_28
+  - first:
+      213: -507425451920006377
+    second: gryphon-white_2_29
+  - first:
+      213: -9147926258685971372
+    second: gryphon-white_2_30
+  - first:
+      213: -4221949379522548794
+    second: gryphon-white_2_31
+  - first:
+      213: 5458170433134654036
+    second: gryphon-white_2_32
+  - first:
+      213: -5312226103844244915
+    second: gryphon-white_2_33
+  - first:
+      213: 4081286856807624463
+    second: gryphon-white_2_34
+  - first:
+      213: -7302272612850239409
+    second: gryphon-white_2_35
+  - first:
+      213: -4960918259210038426
+    second: gryphon-white_2_36
+  - first:
+      213: 6783605289912168261
+    second: gryphon-white_2_37
+  - first:
+      213: -504992472918273770
+    second: gryphon-white_2_38
+  - first:
+      213: -7252909922376722166
+    second: gryphon-white_2_39
+  - first:
+      213: 7134071731546883653
+    second: gryphon-white_2_40
+  - first:
+      213: 4523696968670662255
+    second: gryphon-white_2_41
+  - first:
+      213: -3975625243038801426
+    second: gryphon-white_2_42
+  - first:
+      213: -6626456073557148144
+    second: gryphon-white_2_43
+  - first:
+      213: -1413709644370968383
+    second: gryphon-white_2_44
+  - first:
+      213: 5689392129866145518
+    second: gryphon-white_2_45
+  - first:
+      213: -597033889307457749
+    second: gryphon-white_2_46
+  - first:
+      213: -4140519521692970793
+    second: gryphon-white_2_47
+  - first:
+      213: 1548080787461426905
+    second: gryphon-white_2_48
+  - first:
+      213: 3709426134878742702
+    second: gryphon-white_2_49
+  - first:
+      213: 5374054874262099097
+    second: gryphon-white_2_50
+  - first:
+      213: -5732401776841140882
+    second: gryphon-white_2_51
+  - first:
+      213: -3570846880732324044
+    second: gryphon-white_2_52
+  - first:
+      213: -2271195339292957057
+    second: gryphon-white_2_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gryphon-white_2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 640
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169852bc1bc3ab40800000000000000
+      internalID: 5450423298160104991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 640
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06617cb9f7386b0800000000000000
+      internalID: -5295248429820780370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 640
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca049bc23ff20350800000000000000
+      internalID: 5981623848730364608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 640
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78e15878edb4d80800000000000000
+      internalID: -8265268017473091612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20499edd5f2340d60800000000000000
+      internalID: 7855459681612436482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 640
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df44fd9b5e4e4ce00800000000000000
+      internalID: 1064227087283340541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 652
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02995ff45626ff8c0800000000000000
+      internalID: -3963340959790032608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 662
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e9b50cbe65d370800000000000000
+      internalID: 8346699238230057681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_8
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 640
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aafd437464625090800000000000000
+      internalID: -8047259201563657566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 512
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4cd199136655670800000000000000
+      internalID: 8526833832704197831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 512
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189f5113856b91a0800000000000000
+      internalID: -6801731198606403555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 512
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f0e5f2744b5bb0800000000000000
+      internalID: -4946284505194235780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 524
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eef2554881e3dd0800000000000000
+      internalID: -2504537386127462777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 531
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da679232ba63c06b0800000000000000
+      internalID: -5328824150428911955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 512
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c798c55dc5ead370800000000000000
+      internalID: 8348237529354901443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 512
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0621828d5dd876270800000000000000
+      internalID: 8243713592519037536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 512
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0a283cd0ca25b0800000000000000
+      internalID: -5392285551755129744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_17
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 512
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b5f496933f5ba0800000000000000
+      internalID: -6098098648599119948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 384
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c3b54fd704b96c0800000000000000
+      internalID: -4135640923094959100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 384
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b0ff76ffdaa1060800000000000000
+      internalID: 6925038689508592388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 384
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad53861337ab860800000000000000
+      internalID: 7546470781651638811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 384
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f16f74ed9cfc90800000000000000
+      internalID: -7134654104946478091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_22
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 403
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e652ab6a963cbf70800000000000000
+      internalID: 9204291775297115877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 384
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a9b3bd84f007c0800000000000000
+      internalID: -4107013970719037593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 384
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda4cab47c80b220800000000000000
+      internalID: 2499652226168171968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 384
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95645d9c1b64ab0800000000000000
+      internalID: -5024132853860509199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_26
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 384
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d7f56938d011a0800000000000000
+      internalID: -6840730092940307468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 256
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4f8bc87d865470800000000000000
+      internalID: 8383043306347515301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 256
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d8aeb3a121cd70800000000000000
+      internalID: 9061560912408270480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 256
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e05c6d3345f8f0800000000000000
+      internalID: -507425451920006377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 256
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454fd8719890c0180800000000000000
+      internalID: -9147926258685971372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 256
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba0ed786f9865c0800000000000000
+      internalID: -4221949379522548794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 256
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452f78e17115fbb40800000000000000
+      internalID: 5458170433134654036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 256
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427ec1018e2746b0800000000000000
+      internalID: -5312226103844244915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_34
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 256
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f2d7ec5c4a3a830800000000000000
+      internalID: 4081286856807624463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_35
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 256
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487ff96fbd19aa90800000000000000
+      internalID: -7302272612850239409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 134
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66359089027472bb0800000000000000
+      internalID: -4960918259210038426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 134
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54feca1f115342e50800000000000000
+      internalID: 6783605289912168261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 134
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d57d7508edf8f0800000000000000
+      internalID: -504992472918273770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 128
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0954d86adc785b90800000000000000
+      internalID: -7252909922376722166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 128
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54602012170510360800000000000000
+      internalID: 7134071731546883653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 128
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4029ec6667ce30800000000000000
+      internalID: 4523696968670662255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_42
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 128
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a89cb7edb3d8c0800000000000000
+      internalID: -3975625243038801426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_43
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 128
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e75ef3f491a04a0800000000000000
+      internalID: -6626456073557148144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_44
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 128
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c089bf819e716ce0800000000000000
+      internalID: -1413709644370968383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee13989ff7c4fe40800000000000000
+      internalID: 5689392129866145518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2785f447d8e6b7f0800000000000000
+      internalID: -597033889307457749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_47
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09be3be6be986c0800000000000000
+      internalID: -4140519521692970793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dece3c2643eb7510800000000000000
+      internalID: 1548080787461426905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea86ff19a678a7330800000000000000
+      internalID: 3709426134878742702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_50
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99459d76f6a749a40800000000000000
+      internalID: 5374054874262099097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_51
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d09d94fa6270b0800000000000000
+      internalID: -5732401776841140882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_52
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f53ae5eadc17ec0800000000000000
+      internalID: -3570846880732324044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gryphon-white_2_53
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 0
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76abe94fd71b70e0800000000000000
+      internalID: -2271195339292957057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
